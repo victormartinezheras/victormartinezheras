@@ -67,7 +67,6 @@ En mi perfil de GitHub comparto proyectos donde aplico lo aprendido y sigo ampli
   <img src="https://github-profile-trophy.vercel.app/?username=victormartinezheras&theme=onedark&no-frame=true&column=6&margin-w=25&margin-h=25" alt="GitHub Trophies" />
 </p>
 ---
-[!](https://visitcount.itsvg.in)
 
 ### Contacto 📧
 
@@ -136,9 +135,7 @@ Throughout my studies, I have explored different areas of computer science, rang
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=victormartinezheras&theme=onedark&no-frame=true&column=6&margin-w=25&margin-h=25" alt="GitHub Trophies" />
 </p>
-
 ---
-[!](https://visitcount.itsvg.in)
 
 ### Contact 📧
 
