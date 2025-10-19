@@ -62,8 +62,10 @@ En mi perfil de GitHub comparto proyectos donde aplico lo aprendido y sigo ampli
 ---
 
 ## 🏆 Trofeos de GitHub
-!
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=victormartinezheras&theme=onedark&no-frame=true&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
 ---
 [!](https://visitcount.itsvg.in)
 
@@ -131,7 +133,9 @@ Throughout my studies, I have explored different areas of computer science, rang
   General repository gathering different projects and assignments developed during my studies.
 
 ## 🏆 GitHub Trophies
-!
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=victormartinezheras&theme=onedark&no-frame=true&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
 
 ---
 [!](https://visitcount.itsvg.in)
