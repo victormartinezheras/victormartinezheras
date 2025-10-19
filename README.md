@@ -1,5 +1,3 @@
-**English below**
-
 # Víctor Martínez 🎓
 ## 👨‍💻 Sobre mí
 
@@ -14,7 +12,6 @@ Durante mi formación he explorado distintas áreas de la informática, desde el
 - Entornos Linux, Office 365 y Excel  
 
 En mi perfil de GitHub comparto proyectos donde aplico lo aprendido y sigo ampliando mis habilidades, siempre en búsqueda de nuevos retos y tecnologías que me permitan crecer como profesional.
-
 
 ---
 
@@ -35,29 +32,44 @@ En mi perfil de GitHub comparto proyectos donde aplico lo aprendido y sigo ampli
 ### Estadísticas 📊
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bibictor&show_icons=true&theme=onedark" width="45%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=victormartinezheras&show_icons=true&theme=onedark" width="45%" />
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bibictor&layout=compact&theme=onedark" width="35%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormartinezheras&layout=compact&theme=onedark" width="35%" />
 </p>
 
 ---
 
 ### Proyectos destacados ⭐
 
--
--
--
--
+- [**IA Fuzzy Function Banking System**](https://github.com/victormartinezheras/Public-Repository/tree/main/IA-fuzzy-function-banking-system)  
+  Sistema bancario que utiliza **lógica difusa** para evaluar la concesión de préstamos en función de parámetros como ingresos, historial y deudas.
 
-## 🏆 Trofeos de GitHub
-![](https://github-profile-trophy.vercel.app/?username=Bibictor&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- [**Aprendizaje Automático**](https://github.com/victormartinezheras/Public-Repository/tree/main/Aprendizaje%20automatico)  
+  Conjunto de notebooks y scripts centrados en **técnicas de machine learning supervisado y no supervisado**, aplicadas a distintos conjuntos de datos.
+
+- [**Bases de Datos (BBDD)**](https://github.com/victormartinezheras/Public-Repository/tree/main/BBDD)  
+  Proyectos relacionados con **modelado y gestión de bases de datos SQL**, incluyendo creación de esquemas y consultas complejas.
+
+- [**MiniShell (Sistemas Operativos)**](https://github.com/victormartinezheras/Public-Repository/tree/main/SO-minishell)  
+  Implementación de una **shell básica en C**, con gestión de procesos, comandos internos y ejecución en segundo plano.
+
+- [**Sistemas Distribuidos**](https://github.com/victormartinezheras/Public-Repository/tree/main/Varios%20Sistemas%20Distribuidos)  
+  Ejercicios y proyectos sobre **comunicación entre procesos, sincronización y paso de mensajes** en entornos distribuidos.
+
+- [**Repositorio Público**](https://github.com/victormartinezheras/Public-Repository)  
+  Repositorio general donde agrupo diferentes proyectos y prácticas realizadas durante mi formación.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Bibictor&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🏆 Trofeos de GitHub
+!
+
+---
+[!](https://visitcount.itsvg.in)
 
 ### Contacto 📧
 
-- LinkedIn: [Víctor Martínez de las Heras](https://linkedin.com/in/victor-martinez-de-las-heras)
+- LinkedIn: [Víctor Martínez de las Heras](https://linkedin.com/in/victormartinezheras)
 ---
 
 # Víctor Martínez 🎓
@@ -90,25 +102,40 @@ Throughout my studies, I have explored different areas of computer science, rang
 ### Statistics 📊
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bibictor&show_icons=true&theme=onedark" width="45%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=victormartinezheras&show_icons=true&theme=onedark" width="45%" />
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bibictor&layout=compact&theme=onedark" width="35%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormartinezheras&layout=compact&theme=onedark" width="35%" />
 </p>
 
 ---
 
+
 ### Highlighted projects ⭐
 
--
--
--
+- [**IA Fuzzy Function Banking System**](https://github.com/victormartinezheras/Public-Repository/tree/main/IA-fuzzy-function-banking-system)  
+  Banking system that applies **fuzzy logic** to assess loan approvals based on parameters such as income, credit history, and debt level.
 
-## 🏆 Trofeos de GitHub
-![](https://github-profile-trophy.vercel.app/?username=Bibictor&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- [**Machine Learning**](https://github.com/victormartinezheras/Public-Repository/tree/main/Aprendizaje%20automatico)  
+  Collection of notebooks and scripts focused on **supervised and unsupervised learning techniques** applied to various datasets.
+
+- [**Databases (SQL)**](https://github.com/victormartinezheras/Public-Repository/tree/main/BBDD)  
+  Projects on **database modeling and SQL management**, including schema design and complex queries.
+
+- [**MiniShell (Operating Systems)**](https://github.com/victormartinezheras/Public-Repository/tree/main/SO-minishell)  
+  Implementation of a **basic shell in C**, featuring process management, built-in commands, and background execution.
+
+- [**Distributed Systems**](https://github.com/victormartinezheras/Public-Repository/tree/main/Varios%20Sistemas%20Distribuidos)  
+  Exercises and projects on **inter-process communication, synchronization, and message passing** in distributed environments.
+
+- [**Public Repository**](https://github.com/victormartinezheras/Public-Repository)  
+  General repository gathering different projects and assignments developed during my studies.
+
+## 🏆 GitHub Trophies
+!
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Bibictor&icon=0&color=0)](https://visitcount.itsvg.in)
+[!](https://visitcount.itsvg.in)
 
 ### Contact 📧
 
-- LinkedIn: [Víctor Martínez de las Heras](https://linkedin.com/in/victor-martinez-de-las-heras)
+- LinkedIn: [Víctor Martínez de las Heras](https://linkedin.com/in/victormartinezheras)
